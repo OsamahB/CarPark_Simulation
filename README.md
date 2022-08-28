@@ -1,4 +1,4 @@
-#A --->
+# A --->
 
 The difficulties that we encountered in this project:
 
@@ -11,7 +11,7 @@ us to avoid deadlocks and busy-waiting.
 
 
 
-#B --->
+# B --->
 
 The requirements that we have designed in our project:
 
@@ -27,12 +27,12 @@ The requirements that we have designed in our project:
 status of the cat park.
 10- The simulator will continue working until it is interrupted from the keyboard by control-c.
 
-#C --->
+# C --->
 
 All requirements were designed and realized.
 
 
-#D --->
+# D --->
 
 The project's build command:
 
@@ -53,7 +53,7 @@ The default values of the argument when invoking the simultor as "$ ./cp"
 - expnum= 0.05
 
 
-#E --->
+# E --->
 We remarked that semaphores and mutual exclusion should be delt carfully, otherwise they might 
 create many issues such as deadlocks. Moreover, we thought that the implementation of 
 utilization is the number of occuipied slots divied by the number of slots in the parking lot,
